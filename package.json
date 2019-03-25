@@ -1,0 +1,23 @@
+{
+  "name": "@johnfellows/modelfinder",
+  "version": "1.0.0",
+  "description": "Dynamic Model Middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetcitysoftware/modelfinder.git"
+  },
+  "keywords": [
+    "express",
+    "model"
+  ],
+  "author": "John Cokos (Jet City Software)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jetcitysoftware/modelfinder/issues"
+  },
+  "homepage": "https://github.com/jetcitysoftware/modelfinder#readme"
+}
