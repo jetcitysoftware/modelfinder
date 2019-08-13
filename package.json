@@ -1,5 +1,5 @@
 {
-  "name": "@johnfellows/modelfinder",
+  "name": "@code-fellows/modelfinder",
   "version": "1.0.1",
   "description": "Dynamic Model Middleware",
   "main": "index.js",
